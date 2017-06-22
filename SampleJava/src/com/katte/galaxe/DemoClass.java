@@ -7,5 +7,6 @@ public class DemoClass {
 		System.out.println("==================================");
 		Date today = new Date();
 		System.out.println("Today is :" + today);
+		System.out.println("===================================");
 	}
 }
